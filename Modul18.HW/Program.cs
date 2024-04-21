@@ -33,6 +33,8 @@ namespace Modul18.HW
 
             //  выполнение
             sender.Run();
+
+            Console.ReadKey();
         }
     }
 }
